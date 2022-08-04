@@ -35,7 +35,7 @@ pytest --headless=true tests
 ### Формирование отчетов о прохождении тестов:
 Находясь в корне проекта, в командной строке вести команду:
 ```commandline
-allure sesve
+allure serve
 ```
 
 
